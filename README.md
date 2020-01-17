@@ -1,4 +1,4 @@
-# foraneos
+# Foraneos
 
 A new Flutter project.
 
